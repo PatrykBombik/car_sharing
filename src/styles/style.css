@@ -18,3 +18,24 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.intro {}
+
+.header {}
+.header .header__inner {}
+
+.logo  {}
+.logo .logo__image {}
+.logo .logo__text {}
+.logo .logo__text.logo__text--primary {}
+
+.mainMenu {}
+.mainMenu .mainMenu__item {}
+.mainMenu .mainMenu__item.mainMenu__item--active {}
+
+.hero {}
+.hero .hero__hdl {}
+.hero .hero__lead {}
+.hero .hero__wrapper {}
+.hero .hero__btn {}
+.hero .hero__btn.hero__btn--primary {}
+.hero .hero__btn.hero__btn--icon {}
